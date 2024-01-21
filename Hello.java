@@ -55,6 +55,17 @@ class Hello
 
       //boolean b = true;
 
+  //some cool things you can do with literals is 
+
+    // int num = 10_000_000_00 -> System.out.print(num) -> 1000000000
+
+    // char c = 'a' -> c++ -> Ststem.out.print(c) -> b
+
+  //:::::Type Conversion and Casting :::::
+
+
+    
+
 
 }
 
