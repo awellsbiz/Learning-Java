@@ -1,0 +1,16 @@
+:::NOTES:::
+
+Methods:
+
+when we see main- that mean here is where we are starting the exicution. 
+
+In java we create components by creating classes and they come together. 
+
+We create methose by perenthesis:
+
+    void- meaning tiou are not expecting anything in return. 
+
+when you use retuurn in a method. to call it store in a variable in another class-- to print. 
+
+
+Method overloading is when you have the same name of a method and adding more paramaters or diffterent types.
