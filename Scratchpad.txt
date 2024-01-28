@@ -14,3 +14,9 @@ when you use retuurn in a method. to call it store in a variable in another clas
 
 
 Method overloading is when you have the same name of a method and adding more paramaters or diffterent types.
+
+Refer to replit:
+
+Generics are when you do not specify a specific type until the class is instanciated / called
+
+this is where you use the <> brackets 
